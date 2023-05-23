@@ -132,3 +132,5 @@ dmypy.json
 # Mac system file
 model/
 .idea
+chatglm-6b/
+LangChainChatGLM-6B.ipynb
